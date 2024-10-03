@@ -11,22 +11,27 @@ Theres not much to be said here, but you can download this and run it if you fee
 ### Dependencies
 
 * Rust Version 1.81.0 (2024-09-05) or higher
+* Cargo 1.81.0 (2dbb1af80 2024-08-20)
 * Command-line
 * Git
+* gh
 
 ### Installing
 
 * Just clone using Git
 ```
-git clone
+git clone https://github.com/Xtrau505/Rust_Mem.git
 ```
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Enter the project directory
 ```
-cd ./rust_mem
+cd ./Rust_Mem
+```
+* Run using Cargo
+```
+cargo run --release
 ```
 
 ## Help
@@ -40,13 +45,12 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. [Ian Mullen][mailto:zephyros@zephyros1938.org]
 
 ## Version History
 
 * 0.2
-    * Various bug fixes and optimizations
+    * README.md Updated
     * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
@@ -54,12 +58,3 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 ## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
