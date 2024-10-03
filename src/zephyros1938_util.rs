@@ -95,6 +95,7 @@ pub mod vec_map_utils {
         }
     }
 }
+
 pub mod math_utils {
     pub mod extra {
         pub fn sq2_str(l: f64) -> String {
