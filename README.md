@@ -12,9 +12,9 @@ I try to seperate things into seperate libraries; feel free to download them and
 ### Dependencies
 
 * Rust Version 1.81.0 (2024-09-05) or higher
-* Cargo 1.81.0 (2dbb1af80 2024-08-20)
+* Cargo 1.81.0 (2dbb1af80 2024-08-20) or higher
 * Command-line
-* Git
+* Git 2.46.4 or higher
 * gh
 
 ### Installing
