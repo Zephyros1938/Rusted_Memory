@@ -1,3 +1,7 @@
+/*
+    MADE BY ZEPHYROS1938@ZEPHYROS1938.ORG
+    MAILTO:ZEPHYROS@ZEPHYROS1938.ORG FOR FURTHER QUESTIONS
+*/
 macro_rules! _var_name {
     ($var:ident) => {
         stringify!($var)
