@@ -1,10 +1,11 @@
 # Rust_Mem
 
-Just a repository where I save my rust projects.
+A repository made to showcase my current math projects made in rust.
 
 ## Description
 
-Theres not much to be said here, but you can download this and run it if you feel any of the libraries here are useful.
+I do a lot of math work here.
+I try to seperate things into seperate libraries; feel free to download them and use them in your own code with credit.
 
 ## Getting Started
 
