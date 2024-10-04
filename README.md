@@ -21,7 +21,7 @@ I tend to seperate things into individual libraries; feel free to download them 
 * If Cargo isnt installed:
     * Windows:
         * Open your web browser of choice.
-        * Go to [https://win.rustup.rs/](win.rustup.rs/), and download the .exe
+        * Go to [https://win.rustup.rs/](https://win.rustup.rs/), and download the .exe
         * Execute the file (rustup-init.exe)
         * Open your command line of choice
         * Type `rustup --version` to see if rustup is installed.
