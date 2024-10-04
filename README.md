@@ -15,7 +15,6 @@ I try to seperate things into seperate libraries; feel free to download them and
 * Cargo 1.81.0 (2dbb1af80 2024-08-20) or higher
 * Command-line
 * Git 2.46.4 or higher
-* gh
 
 ### Installing
 
