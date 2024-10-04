@@ -25,20 +25,20 @@ I try to seperate things into seperate libraries; feel free to download them and
 ```
 git clone https://github.com/Xtrau505/Rust_Mem.git
 ```
-* cd into the directory
-```
-cd Rust_Mem
-```
 
-### Executing program
+### Executing program (Built from source)
 
 * Enter the project directory
 ```
 cd ./Rust_Mem
 ```
-* Run using Cargo
+* Build using Cargo
 ```
-cargo run --release
+cargo build --release
+```
+* Run built program
+```
+./target/release/rust_mem
 ```
 
 ## Help
