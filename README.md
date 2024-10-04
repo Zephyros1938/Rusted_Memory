@@ -18,20 +18,6 @@ I tend to seperate things into individual libraries; feel free to download them 
 
 ### Installing
 
-* If Cargo isnt installed:
-    * Windows:
-        * Open your web browser of choice.
-        * Go to [https://win.rustup.rs/](https://win.rustup.rs/), and download the .exe
-        * Execute the file (rustup-init.exe)
-        * Open your command line of choice
-        * Type `rustup --version` to see if rustup is installed.
-        * If done correctly, you have now installed Cargo!
-    * Linux/MacOS
-        * Open your command line of choice
-        * Execute the command `curl https://sh.rustup.rs -sSf | sh`
-        * Execute the command `rustup --version`
-        * If done correctly, you have now installed Cargo!
-
 * Open a command-line program such as:
     * Powershell
     * Cmd
@@ -48,6 +34,19 @@ git clone https://github.com/Xtrau505/Rusted_Memory.git
 cd ./Rusted_Memory
 ```
 * Build using Cargo
+   * If Cargo isnt installed:
+       * Windows:
+           * Open your web browser of choice.
+           * Go to [https://win.rustup.rs/](https://win.rustup.rs/), and download the .exe
+           * Execute the file (rustup-init.exe)
+           * Open your command line of choice
+           * Type `rustup --version` to see if rustup is installed.
+           * If done correctly, you have now installed Cargo!
+       * Linux/MacOS
+           * Open your command line of choice
+           * Execute the command `curl https://sh.rustup.rs -sSf | sh`
+           * Execute the command `rustup --version`
+           * If done correctly, you have now installed Cargo!
 ```
 cargo build --release
 ```
