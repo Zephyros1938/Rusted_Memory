@@ -1,4 +1,4 @@
-# Rust_Mem
+# Rusted_Memory
 
 A repository made to showcase my math projects & libraries made in rust.
 
@@ -38,14 +38,14 @@ I tend to seperate things into individual libraries; feel free to download them 
     * Terminal
 * Clone using Git
 ```
-git clone https://github.com/Xtrau505/Rust_Mem.git
+git clone https://github.com/Xtrau505/Rusted_Memory.git
 ```
 
 ### Executing program (Built from source)
 
 * Enter the project directory
 ```
-cd ./Rust_Mem
+cd ./Rusted_Memory
 ```
 * Build using Cargo
 ```
@@ -53,7 +53,7 @@ cargo build --release
 ```
 * Run the program
 ```
-./target/release/rust_mem
+./target/release/Rusted_Memory
 ```
 
 ## Help
@@ -62,7 +62,7 @@ If you come across any troubles building, first see if:
 * Your cargo version is up to date
 * Your operating system is supported (Windows & Linux are)
 
-If problems persist, [open an issue](https://github.com/Xtrau505/Rust_Mem/issues).
+If problems persist, [open an issue](https://github.com/Xtrau505/Rusted_Memory/issues).
 
 ## Authors
 
@@ -77,7 +77,7 @@ If problems persist, [open an issue](https://github.com/Xtrau505/Rust_Mem/issues
         * Help & Info added
 * 0.2
     * README.md Updated
-    * See [commit change](https://github.com/Xtrau505/Rust_Mem/graphs/commit-activity) or See [release history](https://github.com/Xtrau505/Rust_Mem/releases)
+    * See [commit change](https://github.com/Xtrau505/Rusted_Memory/graphs/commit-activity) or See [release history](https://github.com/Xtrau505/Rusted_Memory/releases)
 * 0.1
     * Initial Release
 
