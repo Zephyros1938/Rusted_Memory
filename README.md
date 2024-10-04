@@ -12,10 +12,25 @@ I try to seperate things into seperate libraries; feel free to download them and
 ### Dependencies
 
 * Rust Version 1.81.0 (2024-09-05) or higher
+* Rustup Version 1.27.0 - 2024-03-08
 * Cargo 1.81.0 (2dbb1af80 2024-08-20) or higher
 * Git 2.46.4 or higher
 
 ### Installing
+
+* If Cargo isnt installed:
+    * Windows:
+        * Open your web browser of choice.
+        * Go to [https://win.rustup.rs/](win.rustup.rs/), and download the .exe
+        * Execute the file (rustup-init.exe)
+        * Open your command line of choice
+        * Type `rustup --version` to see if rustup is installed.
+        * If done correctly, you have now installed Cargo!
+    * Linux/MacOS
+        * Open your command line of choice
+        * Execute the command `curl https://sh.rustup.rs -sSf | sh`
+        * Execute the command `rustup --version`
+        * If done correctly, you have now installed Cargo!
 
 * Open a command-line program such as:
     * Powershell
@@ -36,17 +51,17 @@ cd ./Rust_Mem
 ```
 cargo build --release
 ```
-* Run built program
+* Run the program
 ```
 ./target/release/rust_mem
 ```
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+If you come across any troubles building, first see if:
+* Your cargo version is up to date
+* Your operating system is supported (Windows & Linux are)
+If problems persist, [open an issue](https://github.com/Xtrau505/Rust_Mem/issues).
 
 ## Authors
 
