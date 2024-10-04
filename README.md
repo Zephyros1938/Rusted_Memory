@@ -1,11 +1,11 @@
 # Rust_Mem
 
-A repository made to showcase my current math projects made in rust.
+A repository made to showcase my math projects & libraries made in rust.
 
 ## Description
 
-I do a lot of math work here.
-I try to seperate things into seperate libraries; feel free to download them and use them in your own code with credit.
+I make a lot of math libraries & utilities, and they should all be here for free download and use.
+I tend to seperate things into individual libraries; feel free to download them and use them in your own code <sup>with credit ofcourse</sup>.
 
 ## Getting Started
 
@@ -69,10 +69,15 @@ If problems persist, [open an issue](https://github.com/Xtrau505/Rust_Mem/issues
 [Ian Mullen](mailto:zephyros@zephyros1938.org)
 
 ## Version History
-
+* 0.3
+    * README.md Updated to include more valuable info
+        * This update log
+        * Installation Guide
+        * Fixing links
+        * Help & Info added
 * 0.2
     * README.md Updated
-    * See [commit change]() or See [release history]()
+    * See [commit change](https://github.com/Xtrau505/Rust_Mem/graphs/commit-activity) or See [release history](https://github.com/Xtrau505/Rust_Mem/releases)
 * 0.1
     * Initial Release
 
