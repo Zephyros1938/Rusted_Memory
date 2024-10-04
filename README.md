@@ -13,14 +13,21 @@ I try to seperate things into seperate libraries; feel free to download them and
 
 * Rust Version 1.81.0 (2024-09-05) or higher
 * Cargo 1.81.0 (2dbb1af80 2024-08-20) or higher
-* Command-line
 * Git 2.46.4 or higher
 
 ### Installing
 
-* Just clone using Git
+* Open a command-line program such as:
+    * Powershell
+    * Cmd
+    * Terminal
+* Clone using Git
 ```
 git clone https://github.com/Xtrau505/Rust_Mem.git
+```
+* cd into the directory
+```
+cd Rust_Mem
 ```
 
 ### Executing program
