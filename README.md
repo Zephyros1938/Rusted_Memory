@@ -76,7 +76,7 @@ If problems persist, [open an issue](https://github.com/Xtrau505/Rusted_Memory/i
         * Help & Info added
 * 0.2
     * README.md Updated
-    * See [commit change](https://github.com/Xtrau505/Rusted_Memory/graphs/commit-activity) or See [release history](https://github.com/Xtrau505/Rusted_Memory/releases)
+    * See [commit change](https://github.com/Xtrau505/Rusted_Memory/commit/main) or See [release history](https://github.com/Xtrau505/Rusted_Memory/releases)
 * 0.1
     * Initial Release
 
