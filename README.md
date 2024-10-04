@@ -61,6 +61,7 @@ cargo build --release
 If you come across any troubles building, first see if:
 * Your cargo version is up to date
 * Your operating system is supported (Windows & Linux are)
+
 If problems persist, [open an issue](https://github.com/Xtrau505/Rust_Mem/issues).
 
 ## Authors
