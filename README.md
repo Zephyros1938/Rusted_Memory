@@ -82,4 +82,4 @@ If problems persist, [open an issue](https://github.com/Xtrau505/Rusted_Memory/i
 
 ## License
 
-This project is licensed under the GNU General Public License - see the LICENSE.md[LICENSE.md] file for details
+This project is licensed under the GNU General Public License - see the [LICENSE.md](LICENSE.md) file for details
